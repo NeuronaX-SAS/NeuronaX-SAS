@@ -4,27 +4,21 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=900&lines=🔥+LIMITED+TIME%3A+50%25+OFF+FIRST+PROJECT+🔥;Complete+Digital+Transformation+Solutions;AI+%7C+Architecture+%7C+Legal+%7C+Marketing;42%2B+Years+Building+the+Future;1000%2B+Successful+Projects+Delivered;⚡+ONLY+5+SPOTS+LEFT+THIS+QUARTER+⚡" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🚨_LIMITED_OFFER-50%25_OFF_EXPIRES_JUNE_15-FF0000?style=for-the-badge&labelColor=000000&color=FF0000&blink" alt="Limited Offer"/>
-  <img src="https://img.shields.io/badge/⏰_URGENT-ONLY_5_SPOTS_LEFT-FF6B35?style=for-the-badge&labelColor=000000&color=FF6B35" alt="Urgency"/>
-  <img src="https://img.shields.io/badge/💎_EXCLUSIVE-VIP_CLIENT_BONUS-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" alt="Exclusive"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Complete+Digital+Transformation+Solutions;AI+%7C+Architecture+%7C+Legal+%7C+Marketing;42%2B+Years+Building+the+Future;1000%2B+Successful+Projects+Delivered" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://neuronax.net">
     <img src="https://img.shields.io/badge/🌐_Website-neuronax.net-00D4FF?style=for-the-badge&logo=globe" alt="Website"/>
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=573203478322&text=🚨%20I%20want%20the%2050%25%20discount%20offer!&type=phone_number&app_absent=0">
-    <img src="https://img.shields.io/badge/�_CLAIM_50%25_OFF-WhatsApp_NOW!-25D366?style=for-the-badge&logo=whatsapp&labelColor=FF0000" alt="Claim Discount"/>
+  <a href="mailto:neuronax.sas@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact_Sales-FF6B35?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
   <a href="https://wa.me/573203478322">
-    <img src="https://img.shields.io/badge/⚡_URGENT_CHAT-Last_5_Spots-FF6B35?style=for-the-badge&logo=whatsapp" alt="Urgent Chat"/>
+    <img src="https://img.shields.io/badge/💬_WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
   </a>
   <a href="https://linktr.ee/NeuronaX.SAS">
-    <img src="https://img.shields.io/badge/🔗_VIP_ACCESS-Exclusive_Links-39E09B?style=for-the-badge&logo=linktree" alt="VIP Access"/>
+    <img src="https://img.shields.io/badge/🔗_Links-Linktree-39E09B?style=for-the-badge&logo=linktree" alt="Linktree"/>
   </a>
 </p>
 
@@ -32,11 +26,7 @@
 
 ## 💡 **Who We Are**
 
-> **🚨 BREAKING: Due to overwhelming demand, we're ONLY accepting 5 new enterprise clients this quarter!**
-
 **NeuronaX S.A.S** is Colombia's premier **full-service digital transformation company** with **42+ years of proven expertise**. Born from Gráficas JAOP (1983), we've evolved into a comprehensive technology and creative consultancy delivering **complete business solutions** from architectural design to quantum fintech.
-
-**⚡ URGENT ANNOUNCEMENT:** *Our Q2 2025 roster is 90% FULL - Only 5 VIP spots remaining for companies ready to transform their business completely.*
 
 We are the **only company in Latin America** that seamlessly integrates:
 - 🏗️ **Architectural Design** with Robotics & IoT
@@ -49,51 +39,39 @@ We are the **only company in Latin America** that seamlessly integrates:
 ### 🏛️ **Meet Our Creative Architect Director**
 Our **Head of Creative & Architectural Innovation** leads groundbreaking projects that merge physical and digital spaces, creating smart buildings and IoT-integrated environments that represent the future of architectural design.
 
-### 🔥 **EXCLUSIVE Q2 2025 OFFER - ENDS JUNE 15TH**
-**First 5 clients get 50% OFF their first project + FREE legal consultation worth $10K**
-
 ---
 
 ## 🏆 **Why 1000+ Clients Choose NeuronaX**
-
-> **⚠️ WARNING: Our competitors charge 3x more for inferior results. This 50% discount expires June 15th.**
 
 <table>
 <tr>
 <td align="center" width="20%">
 <strong>⚡ Lightning Fast</strong><br/>
 Deploy in weeks, not months<br/>
-<span style="color:red"><strong>300% faster than competitors</strong></span>
+300% faster development
 </td>
 <td align="center" width="20%">
 <strong>🏗️ Complete Solutions</strong><br/>
 Architecture to AI<br/>
-<span style="color:red"><strong>ONLY company with ALL services</strong></span>
+One team, infinite possibilities
 </td>
 <td align="center" width="20%">
 <strong>🛡️ Enterprise Security</strong><br/>
 Bank-grade encryption<br/>
-<span style="color:red"><strong>Quantum-resistant protocols</strong></span>
+Quantum-resistant protocols
 </td>
 <td align="center" width="20%">
 <strong>📈 Guaranteed ROI</strong><br/>
 Average 250% ROI<br/>
-<span style="color:red"><strong>Or money back guarantee</strong></span>
+within 6 months
 </td>
 <td align="center" width="20%">
 <strong>🌍 Global Impact</strong><br/>
 Multi-region deployment<br/>
-<span style="color:red"><strong>Cultural sensitivity included</strong></span>
+Cultural sensitivity
 </td>
 </tr>
 </table>
-
-### 🚨 **SCARCITY ALERT: Why Act NOW**
-- ✅ **Only 5 spots left** in our Q2 2025 VIP program
-- ✅ **50% discount expires June 15th** - Never offered again
-- ✅ **FREE $10K legal consultation** for immediate action takers
-- ✅ **Priority support queue** - No waiting, immediate response
-- ✅ **Exclusive access** to our Quantum Fintech™ beta program
 
 ---
 
