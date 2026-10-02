@@ -1,33 +1,33 @@
 <div align="center">
 
 # ⚡ NeuronaX S.A.S.
-### *Global Innovation Foundry • Applied AI Systems • Creative Studio • Strategic Advisory*
-#### **Bogotá, Colombia • Serving Global Enterprises & High-Growth Startups Worldwide**
+### *Harmonizing the Digital & Physical Worlds • Applied AI • Phygital Craft • Strategic Advisory*
+#### **Headquartered in Bogotá, Colombia • Delivering End-to-End Solutions for Global & Local Enterprises**
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=950&lines=Technology+%E2%80%A2+Creativity+%E2%80%A2+Strategic+Advisory;AI+Is+a+Multiplier.+Human+Taste%2C+Judgment+%26+Rigor+Are+the+Differentiators;Empowering+Elite+Youth+Engineering+Talent+to+Outbuild+Legacy+Agencies;Industrial+Enterprise+Software+%7C+Generative+Diffusion+%7C+IP+Registration;Proven+Track+Record%3A+Inrapartes+%7C+Trabajo+Digno+%7C+Karpati+%7C+miLuka)](https://github.com/NeuronaX-SAS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=960&lines=Harmonizing+the+Digital+%26+Physical+Worlds;Enterprise+AI+Agents+%E2%80%A2+Bespoke+Sensory+Hardware+%E2%80%A2+Robotics;Full-Spectrum+Phygital+Branding%3A+Packaging%2C+Apparel%2C+Print+%26+Mugs;Classroom-Ready+EdTech+AI+Companions+with+Proven+Learning+Gains;Complete+IP+Shield%3A+We+Design+Brands+%26+Register+Them+Before+SIC;Youth+Innovation+Velocity+%2B+Decades+of+Seasoned+Market+Wisdom)](https://github.com/NeuronaX-SAS)
 
 <br/>
 
-[![Corporate SAS](https://img.shields.io/badge/NeuronaX-Incorporated_S.A.S._(Colombia)-181717?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/NeuronaX-SAS)
-[![Pillar Technology](https://img.shields.io/badge/Pillar_I-Technology_%26_AI_Systems-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/NeuronaX-SAS)
-[![Pillar Creativity](https://img.shields.io/badge/Pillar_II-Creative_Growth_%26_Media-FF007F?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/NeuronaX-SAS)
-[![Pillar Advisory](https://img.shields.io/badge/Pillar_III-Legal_%26_Financial_Advisory-28A745?style=for-the-badge&logo=cashapp&logoColor=white)](https://github.com/NeuronaX-SAS)
+[![Entity SAS](https://img.shields.io/badge/NeuronaX-Incorporated_S.A.S._(Colombia)-181717?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/NeuronaX-SAS)
+[![Phygital Convergence](https://img.shields.io/badge/Ecosystem-Digital_to_Physical_Harmony-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/NeuronaX-SAS)
+[![Packaging & Print](https://img.shields.io/badge/Production-Packaging_Print_%26_Merch-FF007F?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/NeuronaX-SAS)
+[![SIC IP Shield](https://img.shields.io/badge/Legal-SIC_Trademark_Registration-28A745?style=for-the-badge&logo=cashapp&logoColor=white)](https://github.com/NeuronaX-SAS)
 
 <br/>
 
 <p align="center">
-  <a href="https://wa.me/573203478322?text=Hello%20NeuronaX,%20I%20would%20like%20to%20schedule%20a%2015-minute%20strategic%20discovery%20call%20for%20my%20business">
-    <img src="https://img.shields.io/badge/💬_WhatsApp-Book_Discovery_Call_(15_Min)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="42" alt="WhatsApp Consultation"/>
+  <a href="https://wa.me/573203478322?text=Hello%20NeuronaX,%20I%20want%20to%20schedule%20a%2015-minute%20strategic%20discovery%20call%20for%20my%20business">
+    <img src="https://img.shields.io/badge/📲_WhatsApp-Book_a_Discovery_Call_(15_Min)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="44" alt="Book Discovery Call via WhatsApp"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:neuronax.sas@gmail.com?subject=Inquiry%20from%20GitHub%20-%20NeuronaX%20SAS%20Services">
-    <img src="https://img.shields.io/badge/📧_Email-neuronax.sas@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Corporate Email"/>
+  <a href="mailto:neuronax.sas@gmail.com?subject=Business%20Proposal%20Inquiry%20-%20NeuronaX%20SAS">
+    <img src="https://img.shields.io/badge/📧_Email-neuronax.sas@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="44" alt="Corporate Email"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://linktr.ee/NeuronaX.SAS">
-    <img src="https://img.shields.io/badge/🔗_Ecosystem-Official_Hub-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="42" alt="Linktree"/>
+    <img src="https://img.shields.io/badge/🔗_Official_Hub-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="44" alt="Linktree Hub"/>
   </a>
 </p>
 
@@ -35,27 +35,49 @@
 
 </div>
 
-## 💡 The NeuronaX Thesis: Why Human Taste & Youth Talent Win in the AI Era
+## 🌐 The NeuronaX Advantage: Seamless Harmony Between the Digital & Physical Worlds
 
-In the current technological paradigm, an erroneous narrative claims that *"junior engineers and creators are obsolete because AI models can code and generate graphics."*
+Most technology firms live in a digital vacuum: they write software but have no concept of physical manufacturing, tactile client perception, or legal reality. Conversely, traditional advertising agencies and print shops have zero understanding of artificial intelligence, state-space systems, or cloud architectures.
 
-**We fundamentally reject this premise.**
+**NeuronaX S.A.S. bridges this divide completely.** 
 
-### 🛑 The "Token Waste" Trap
-Anyone can spend weeks burning hundreds of dollars in LLM API tokens and diffusion prompts only to receive generic code, architectural hallucinations, and hollow visual clichés. 
+We engineer cohesive solutions that move seamlessly between cloud servers, physical manufacturing floors, classrooms, and boardrooms:
 
-* **Raw tokens do not have taste.** A prompt cannot synthesize the psychographic soul of a brand.
-* **Raw tokens do not take legal accountability.** An AI model cannot defend your trademark before the **Superintendencia de Industria y Comercio (SIC)** or draft a bulletproof enterprise SaaS contract.
-* **Raw tokens do not understand systemic execution.** Generating an isolated Python script is not the same as deploying fault-tolerant, bank-grade payment rails or embedded field sensors.
+* 📦 **From Brand Identity to Tangible Manufacturing:** We don't just export Figma files. We manufacture and print the tangible reality: premium product packaging, corporate stationery, screen-printed corporate apparel, custom mugs, and physical promotional merchandise matching strict brand manuals.
+* 🎓 **From AI Agents to Proven Academic Impact:** When a school, college, or university partners with us for an educational AI tutor, we don't just hand over a raw API. We coordinate instructional classroom design, teacher onboarding, and in-person pedagogical execution to demonstrably elevate academic performance and exam outcomes.
+* 🌾 **From Software to Custom Robotics & Sensor Hardware:** We build web and mobile platforms, but we also design and deploy physical IoT sensor kits, microcontrollers, and field robotics tailored to the exact physical environment of your factory, warehouse, or agricultural crop.
+* 🏛️ **From Creative Design to Formal Legal Shielding:** We invent your brand, design your visual architecture, and **formally register your trademark before the Superintendencia de Industria y Comercio (SIC)** with bulletproof contracts.
 
-### ⚡ The NeuronaX Alternative: The Youth Talent Innovation Hub
-**NeuronaX S.A.S.** was founded as an elite launchpad that identifies, mentors, and mobilizes the sharpest rising computer scientists, designers, and legal-tech analysts in Latin America. 
-
-We pair state-of-the-art foundational models with **human discernment, sharp aesthetic judgment, and uncompromised mathematical discipline.** Where traditional legacy consultancies take 6 months and charge exorbitant corporate fees, NeuronaX delivers market-tested, legally shielded, production-ready systems in **14-day sprints**.
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│                                 THE NEURONAX CONTINUUM                                 │
+├───────────────────────────────────────────┬────────────────────────────────────────────┤
+│           THE DIGITAL ENGINE              │            THE ANALOG & PHYSICAL REALITY   │
+├───────────────────────────────────────────┼────────────────────────────────────────────┤
+│ • Enterprise AI Agents & RAG Workflows    │ • Custom Packaging, Mugs & Corporate Print │
+│ • Generative Diffusion Asset Pipelines    │ • Screen-Printed Apparel & Brand Merch     │
+│ • Full-Stack Cloud & Mobile Applications  │ • Physical IoT Sensor Kits & Field Robots  │
+│ • Algorithmic Financial Risk Portfolios   │ • Real-World Classroom Pedagogical Rollout │
+│ • Quantitative Treasury Infrastructure    │ • Formal Trademark Registration (SIC)      │
+└───────────────────────────────────────────┴────────────────────────────────────────────┘
+```
 
 ---
 
-## 🏛️ Our Three Synergistic Commercial Pillars
+## ⚡ Our Talent Superpower: The Intergenerational Edge
+
+In an industry claiming that *"junior talent is dead because of AI"*, we prove every day that **pure AI tokens have zero taste, zero strategic judgment, and zero accountability.**
+
+Anyone can burn $500 on LLM tokens over a weekend to get generic code and disjointed images. NeuronaX succeeds because we harness an unbeatable combination:
+
+1. **Unconstrained Youth Innovation & AI Fluency:** The raw velocity, non-linear creativity, and hyper-rapid prototyping speed of top-tier student researchers from leading universities (such as Universidad de los Andes).
+2. **Seasoned Commercial Market Wisdom:** Grounded mentorship and strategic oversight from **seasoned industry veterans with decades of battle-tested commercial experience** in the Colombian and Latin American business landscapes.
+
+**The result:** Our clients receive the blistering speed and cost leverage of cutting-edge foundational models, protected by the wisdom, legal rigor, and operational reliability of veteran execution.
+
+---
+
+## 🏛️ Our Three Core Commercial Pillars
 
 ```
                                 ┌──────────────────────────────────────┐
@@ -64,81 +86,89 @@ We pair state-of-the-art foundational models with **human discernment, sharp aes
                                                    │
                    ┌───────────────────────────────┼───────────────────────────────┐
                    ▼                               ▼                               ▼
-            💻 TECHNOLOGY                   🎨 CREATIVITY                   ⚖️📈 ADVISORY
+            💻 TECHNOLOGY                   🎨 CREATIVIDAD                  ⚖️📈 ASESORÍAS
+        (Digital & Physical Tech)       (Phygital Brand & Media)        (Legal, IP & Capital)
       ─────────────────────────────   ─────────────────────────────   ─────────────────────────────
-      • Enterprise AI & Multi-Agent   • Custom Diffusion Pipelines    • Trademark Registration (SIC)
-      • Industrial & AgriTech IoT     • Full Brand Systems & Manuals  • IP & Software Contracts
-      • Mission-Critical Software     • Photorealistic Product Synth  • Quantitative Portfolios
-      • Serverless Edge Platforms     • Playable 3D Web Experiences   • Corporate Treasury Strategy
+      • Enterprise AI Multi-Agents    • Phygital Brand Systems        • Trademark Registration (SIC)
+      • Bespoke IoT & Sensor Kits     • Packaging, Mugs & Apparel     • Technology Contracts & NDAs
+      • Field Robotics & AgriTech     • Classroom EdTech AI Rollouts  • Quantitative Treasury
+      • Mission-Critical Software     • Custom Diffusion Pipelines    • Investment Due Diligence
 ```
 
 ---
 
-### 💻 1. TECHNOLOGY (Engineering & Intelligent Systems)
-*Scalable, resilient architectures engineered for operational velocity.*
+### 💻 1. TECHNOLOGY — Digital & Cyber-Physical Systems
+*Engineering tailored hardware, autonomous intelligence, and mission-critical software.*
 
-* **🤖 Enterprise Multi-Agent Workflows & Intelligent RAG:**  
-  Custom autonomous pipelines that eliminate high-friction manual bureaucracy, automate complex document processing, and provide 24/7 client intelligence.
-* **🌾 Industrial Telemetry & AgriTech Field Robotics:**  
-  Embedded microcontrollers (ESP32/STM32), edge computer vision, and IoT sensory networks designed for real-time monitoring of machinery, fluids, and crops.
-* **📱 Mission-Critical Software & Mobile Development:**  
-  Full-stack cloud applications, cross-platform mobile clients (React Native / Expo), and edge-computed microservices engineered with strict TypeScript and serverless infrastructure (Cloudflare Workers, Convex, Supabase).
-* **🔒 Enterprise Security & Database Architecture:**  
-  High-throughput PostgreSQL/PostGIS, vector embeddings databases, and automated DevOps pipelines designed for zero downtime.
+* **🤖 Enterprise AI Multi-Agent Orchestration:**  
+  Custom autonomous workflows that digest internal corporate knowledge, automate repetitive operational paperwork, and power 24/7 intelligent customer care without hallucination.
+* **🌾 Bespoke IoT Sensorics & Field Robotics:**  
+  We design, assemble, and program custom embedded hardware (ESP32/STM32, Raspberry Pi, industrial PLCs) and environmental sensor networks tailored to your physical facility, manufacturing line, or agricultural acreage.
+* **📱 Mission-Critical Software & Mobile Engineering:**  
+  Cross-platform mobile apps (React Native / Expo), scalable web applications, and serverless edge APIs built on strict TypeScript, Convex, Supabase, and Cloudflare Workers.
+* **📊 Systems Integration & Legacy Modernization:**  
+  Connecting modern AI endpoints and real-time dashboards to traditional ERPs and existing enterprise databases.
 
 ---
 
-### 🎨 2. CREATIVITY (Generative Media, Brand Systems & Immersive 3D)
-*Elevating automated AI outputs into cohesive, high-converting commercial assets.*
+### 🎨 2. CREATIVITY — Phygital Branding, Tangible Media & EdTech
+*Harmonizing high-converting visual media with tangible physical manufacturing and classroom impact.*
 
-* **💎 Complete Brand Systems & Identity Architecture:**  
-  We do not merely generate a logo. We engineer comprehensive **Brand Manuals**, typography systems, print-ready corporate stationery, packaging design, and omnichannel social media creative directions.
+* **📦 Full-Spectrum Phygital Brand Craft & Manufacturing:**  
+  We do not stop at delivering vector logos. We manufacture and deliver the tangible reality:
+  * **Custom Product Packaging & Unboxing Design** that commands retail shelf authority.
+  * **Corporate Stationery & Print Collateral** (business cards, folders, letterheads, brochures).
+  * **Branded Merchandise & Apparel** (high-grade screen printing / estampados, bespoke uniforms).
+  * **Custom Corporate Mugs, Drinkware & Promotional Assets** engineered for customer loyalty.
+* **🎓 Classroom EdTech AI & Pedagogical Implementation:**  
+  For K-12 institutions and universities seeking customized AI companions:
+  * Tailored curriculum-aligned pedagogical agents.
+  * In-classroom rollout strategies and physical teacher enablement workshops.
+  * Empirical tracking of student engagement, learning retention, and academic grade improvement.
 * **🖼️ Custom Generative Diffusion Pipelines:**  
-  Fine-tuned diffusion architectures producing studio-grade, photorealistic commercial product staging and advertising creative suites—eliminating massive physical studio expenses.
-* **🌐 Playable 3D Environments & WebGL:**  
-  Interactive browser-based three-dimensional campuses and product demonstrators built on **React Three Fiber (R3F)** that captivate audiences and dramatically raise on-site conversion.
-* **📈 Strategic Content & Algorithmic Growth:**  
-  Data-backed creative campaigns structured to capture organic algorithmic distribution on LinkedIn, TikTok, and Instagram.
+  Fine-tuned diffusion models producing photorealistic commercial product staging and advertising creative suites—eliminating massive physical studio production costs.
+* **🌐 Playable 3D Web Experiences (React Three Fiber):**  
+  Interactive, browser-based 3D campuses and digital showrooms that engage users and multiply conversion rates.
 
 ---
 
-### ⚖️📈 3. ADVISORY (LegalTech, Intellectual Property & Financial Engineering)
-*Institutional protection and quantitative capital optimization for founders and corporate leadership.*
+### ⚖️📈 3. ASESORÍAS — LegalTech, Intellectual Property & Financial Engineering
+*Institutional legal defense and quantitative wealth strategies for businesses and leadership.*
 
-* **🏛️ Trademark Registration & Intellectual Property (IP) Protection:**  
-  End-to-end filing, background search, and legal defense of trademarks, trade names, and commercial slogans before the **Superintendencia de Industria y Comercio (SIC)** in Colombia and international registries.
-* **📝 Technology Contracts, SaaS Licensing & NDAs:**  
-  Airtight drafting of software development contracts, source-code intellectual property assignment, developer non-disclosure agreements (NDAs), and enterprise service-level agreements (SLAs)—backed by internationally awarded legal rigor.
-* **📊 Quantitative Financial Advisory & Portfolio Optimization:**  
-  Mathematical modeling for capital allocation, risk-adjusted portfolio management, corporate treasury strategies, and algorithmic risk assessment for businesses and family offices.
+* **🏛️ Comprehensive Trademark Registration (SIC) & IP Defense:**  
+  End-to-end background searches, legal classification, formal filing, and defense of trademarks and commercial slogans before the **Superintendencia de Industria y Comercio (SIC)** in Colombia and international patent offices.
+* **📝 Technology Contracts, SaaS Licensing & Airtight NDAs:**  
+  Drafting and negotiation of source-code intellectual property assignments, developer non-disclosure agreements, SLAs, and corporate shareholder pacts—led by internationally recognized legal acumen.
+* **📊 Quantitative Financial Advisory & Treasury Optimization:**  
+  Algorithmic capital allocation, cash-flow stress testing, corporate treasury optimization, and risk-adjusted portfolio modeling for high-net-worth individuals and fast-growing enterprises.
 * **🎓 AI Executive Strategy & Institutional Due Diligence:**  
-  Technical stack evaluations, data privacy compliance roadmaps, and in-company generative AI training for executive leadership and corporate teams.
+  Auditing technical architectures, code quality, and IP validity for venture capital funds, family offices, and corporate acquisition targets.
 
 ---
 
 ## 💼 Selected Track Record & Proven Deployments
 
-We validate our capabilities through real client enterprises and production platforms operating globally:
+We prove our capabilities through active client partnerships and high-traffic production platforms:
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏭 Inrapartes S.A.S. — Industrial Manufacturing
+### 🏭 Inrapartes S.A.S. — Industrial Legacy
 *Client: [inrapartes.com](https://inrapartes.com/)*
 
-* **Profile:** Prominent Colombian metalworking & automotive manufacturer founded in 1988 (35+ years of industrial legacy), producing CNC-machined couplings, valves, and hydraulic systems.
-* **Contribution:** Digital infrastructure, technological modernization, and commercial catalog digital systems supporting nationwide industrial distribution.
-* **Pillars:** **Technology + Creative Systems**
+* **Profile:** Colombian metalworking and automotive manufacturing leader founded in 1988 (35+ years of industrial excellence), specialized in CNC-machined couplings, valves, and hydraulic systems.
+* **Solution:** Digital infrastructure, technological modernization, and commercial catalog architecture supporting nationwide industrial operations.
+* **Pillars:** **Technology + Digital Systems**
 
 </td>
 <td width="50%" valign="top">
 
-### ⚖️ Trabajo Digno — Civic Labor Rights Platform
+### ⚖️ Trabajo Digno — Civic Labor Defense
 *Client: [trabajodigno.co](https://trabajodigno.co/)*
 
-* **Profile:** Legal-tech educational ecosystem providing accessible, structured legal guidance and workplace rights advocacy for workers and employers across Colombia.
-* **Contribution:** Next.js architecture, automated legal resource processing pipeline, and structured step-by-step guidance modules.
+* **Profile:** Legal-tech civic platform providing accessible, structured guidance and workplace rights defense for workers and businesses across Colombia.
+* **Solution:** Next.js architecture, automated legal document parsing pipeline, and structured educational modules.
 * **Pillars:** **Technology + LegalTech Advisory**
 
 </td>
@@ -147,21 +177,21 @@ We validate our capabilities through real client enterprises and production plat
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Karpati.Club — The Cyber-University for AI
+### 🎓 Karpati.Club — Playable AI Cyber-University
 *Venture Platform: [karpati.club](http://karpati.club)*
 
-* **Profile:** Playable Spanish-first digital university teaching artificial intelligence, mathematics, and technical reasoning.
-* **Architecture:** Interactive 3D campus (React Three Fiber), Gemini AI automated real-time feedback, daily challenge streaks, and verifiable on-chain microcredentials.
-* **Pillars:** **Creativity + Technology**
+* **Profile:** Playable Spanish-first university teaching AI, mathematics, and critical thinking through interactive missions.
+* **Solution:** Interactive 3D campus (React Three Fiber), Gemini AI automated real-time feedback, daily challenge streaks, and verifiable on-chain microcredentials.
+* **Pillars:** **Creativity + EdTech Technology**
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 PicoyPlacaYA.com — Real-Time Civic Mobility
+### 🚗 PicoyPlacaYA.com — Civic Real-Time Mobility
 *Platform: [picoyplacaya.com](http://picoyplacaya.com)*
 
-* **Profile:** High-concurrency civic platform providing real-time vehicle restriction schedules and automated plate queries across major metropolitan areas in Colombia.
-* **Architecture:** Ultra-fast, edge-cached delivery handling high annual query volumes with zero latency.
+* **Profile:** Real-time civic mobility engine delivering immediate vehicular restriction schedules across major metropolitan areas in Colombia.
+* **Solution:** Edge-cached architecture delivering instantaneous plate queries with high annual concurrency.
 * **Pillars:** **Technology + Scalable Edge**
 
 </td>
@@ -173,8 +203,8 @@ We validate our capabilities through real client enterprises and production plat
 ### 🏠 miLuka.org — Automated PropTech Rails
 *Platform: [miluka.org](http://miluka.org)*
 
-* **Profile:** PropTech financial engine centralizing rental contracts, building administration fees, and monthly recurring payment collections.
-* **Architecture:** Convex reactive backend, TypeScript, and certified payment gateway rails (Wompi / Bancolombia).
+* **Profile:** PropTech financial engine centralizing residential lease contracts, building administration fees, and automated recurring payment collections.
+* **Solution:** Convex reactive backend, TypeScript, and certified payment gateway rails (Wompi / Bancolombia).
 * **Pillars:** **Technology + Financial Rails**
 
 </td>
@@ -184,7 +214,7 @@ We validate our capabilities through real client enterprises and production plat
 *Platform: [miaurora.app](https://miaurora.app) • [GitHub](https://github.com/Alortiztique/aurora-mobile)*
 
 * **Profile:** Open-source mobile ecosystem combating gender-based violence, providing real-time safety mapping and somatosensory habit recovery.
-* **Accolades:** Recipient of **The Diana Award 2024** (UK) and the **Community Action Award from Aspire Institute (founded at Harvard University)**.
+* **Accolades:** Recipient of **The Diana Award 2024** (UK) and seed grant from **The Aspire Institute (founded at Harvard University)**.
 * **Pillars:** **Technology + Global Impact**
 
 </td>
@@ -193,54 +223,52 @@ We validate our capabilities through real client enterprises and production plat
 
 ---
 
-## 🤝 Engagement Models: How Global Clients Work With Us
-
-We offer three transparent engagement tiers tailored to rapid commercial execution:
+## 🤝 How to Hire Us: Three Direct Engagement Models
 
 ```
 ┌────────────────────────────────┬────────────────────────────────┬────────────────────────────────┐
-│ ⚡ SPRINT 14 (Rapid MVP / IP)  │ 🔄 ENTERPRISE RETAINER         │ 🔍 STRATEGIC DISCOVERY (15m)   │
+│ ⚡ SPRINT 14 (Rapid MVP & IP)  │ 🔄 ENTERPRISE RETAINER         │ 🔍 STRATEGIC DISCOVERY (15m)   │
 ├────────────────────────────────┼────────────────────────────────┼────────────────────────────────┤
-│ • Production-ready MVP in 14d  │ • Dedicated full-stack team    │ • 1-on-1 Diagnostic Call       │
+│ • Production MVP in 14 days    │ • Dedicated full-stack team    │ • 1-on-1 Diagnostic Call       │
 │ • Full Trademark Filing (SIC)  │ • Multi-agent AI maintenance   │ • Tech & IP Vulnerability Scan │
-│ • Complete Brand System Manual │ • Ongoing financial modeling   │ • Actionable roadmap delivered │
-│ • Custom Diffusion Pipeline    │ • Continuous legal compliance  │ • 100% Complimentary           │
-│ Best for rapid time-to-market  │ Best for scaling operations    │ Best to evaluate fit           │
+│ • Complete Brand & Print Merch │ • Custom sensorics & robotics  │ • Actionable roadmap delivered │
+│ • Classroom EdTech integration │ • Ongoing financial management │ • 100% Complimentary           │
+│ Ideal to launch & sell fast    │ Ideal for scaling enterprises  │ Ideal to evaluate scope        │
 └────────────────────────────────┴────────────────────────────────┴────────────────────────────────┘
 ```
 
 ---
 
-## 📞 Let's Build Something Extraordinary Together
+## 📞 Let's Build & Scale Your Business: Contact NeuronaX
 
-Whether you need to:
-1. **Automate complex business operations** with intelligent multi-agent AI,
-2. **Elevate your brand presence** with photorealistic diffusion media and complete corporate identity systems,
-3. **Shield your brand name and source code** with formal trademark registration (SIC) and airtight contracts, or
-4. **Optimize corporate treasury and capital allocation** with quantitative modeling:
+Whether you are looking to:
+1. **Automate operations** with custom multi-agent AI and bespoke IoT sensor hardware,
+2. **Launch a complete brand** with physical packaging, corporate stationery, apparel, and mugs,
+3. **Deploy educational AI agents** with measurable classroom pedagogical results, or
+4. **Legally shield your brand and source code** with formal SIC trademark registration and contracts:
 
 <br/>
 
 <p align="center">
-  <a href="https://wa.me/573203478322?text=Hello%20NeuronaX,%20I%20would%20like%20to%20schedule%20a%2015-minute%20strategic%20discovery%20call%20for%20my%20business">
-    <img src="https://img.shields.io/badge/💬_Schedule_via_WhatsApp-Direct_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="45" alt="WhatsApp"/>
+  <a href="https://wa.me/573203478322?text=Hello%20NeuronaX,%20I%20want%20to%20schedule%20a%2015-minute%20strategic%20discovery%20call%20for%20my%20business">
+    <img src="https://img.shields.io/badge/📲_WhatsApp-Schedule_Discovery_Call_(15_Min)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="46" alt="WhatsApp Consultation"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:neuronax.sas@gmail.com?subject=NeuronaX%20Business%20Proposal%20Inquiry">
-    <img src="https://img.shields.io/badge/📧_Email_Inquiry-neuronax.sas@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email"/>
+  <a href="mailto:neuronax.sas@gmail.com?subject=Business%20Inquiry%20-%20NeuronaX%20SAS">
+    <img src="https://img.shields.io/badge/📧_Email-Request_Corporate_Proposal-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="46" alt="Email Proposal"/>
   </a>
 </p>
 
 <br/>
 
 * 🏢 **Corporate Entity:** NeuronaX S.A.S. • NIT Registrado • Bogotá, Colombia.
-* 🌐 **Global Reach:** Serving clients in the US, Latin America, Europe, and worldwide.
+* 🌐 **Global Footprint:** Serving clients across the United States, Latin America, Europe, and worldwide.
 * 💬 **WhatsApp Direct:** [+57 320 347 8322](https://wa.me/573203478322)
-* 📧 **Corporate Inquiries:** [neuronax.sas@gmail.com](mailto:neuronax.sas@gmail.com)
+* 📧 **Corporate Email:** [neuronax.sas@gmail.com](mailto:neuronax.sas@gmail.com)
 * 🔗 **Digital Hub:** [linktr.ee/NeuronaX.SAS](https://linktr.ee/NeuronaX.SAS)
 
 <br/>
 
 <div align="center">
-  <sub>© 2026 NeuronaX S.A.S. • Powered by unconstrained youth engineering and applied artificial intelligence.</sub>
+  <sub>© 2026 NeuronaX S.A.S. • Combining unconstrained youth velocity with decades of seasoned market wisdom.</sub>
 </div>
